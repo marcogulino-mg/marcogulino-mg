@@ -8,6 +8,14 @@
 
 ## 🚀 Featured Projects
 
+### 💼 [Portfolio FE](https://github.com/marcogulino-mg/portfolio-fe) | ![WIP](https://img.shields.io/badge/status-WIP-yellow)
+A **personal portfolio website** developed in **React** to showcase my projects and skills.  
+It features smooth animations, responsive design, and reusable components to present work experience, case studies, and contact information in a clean, professional layout.
+
+### 🎮 [GameCollector](https://github.com/marcogulino-mg/finalproject-backoffice)
+A **Full-Stack Java web app** built as a final project at Boolean, designed to manage a collection of consoles and video games.  
+Developed with **Spring Boot** and **Thymeleaf**, it integrates CRUD functionality, secure admin login with Spring Security, and REST API communication.
+
 ### 🛋️ [CosyLiving](https://github.com/marcogulino-mg/cosyliving-fe)
 An e-commerce web app for living room furniture, built with **React**, **Node.js**, and **MySQL**.  
 Includes product search, dynamic filters, shopping cart management, and checkout flow with order confirmation emails.
@@ -15,10 +23,6 @@ Includes product search, dynamic filters, shopping cart management, and checkout
 ### ✈️ [BoolRoad](https://github.com/marcogulino-mg/boolroad)
 A **React-based frontend app** for managing trips and participants.  
 Features include trip filtering, participant search, detailed views, and form-based creation of new entries.
-
-### 🎮 [GameCollector](https://github.com/marcogulino-mg/finalproject-backoffice)
-A **Full-Stack Java web app** built as a final project at Boolean, designed to manage a collection of consoles and video games.  
-Developed with **Spring Boot** and **Thymeleaf**, it integrates CRUD functionality, secure admin login with Spring Security, and REST API communication.
 
 ---
 
